@@ -75,7 +75,7 @@
 		<scenario>
 			<name>Last Command</name>
 			<summary>A group of pioneers have done their part and it's time for them to begin a new chapter of their lives.</summary>
-			<description>As the vanguard of the colonial fleet, the last instruction you received was to wait in cryosleep for the arrival of the fleet.
+			<description>As the vanguard of the colonial fleet, the last instruction you received was to wait in cryptosleep for the arrival of the fleet.
 Until recently, a strange yet familiar broadcast ended the long and anxious wait-
         
 "Code five: The fleet has entered synchronized orbit. Express my greatest gratitude to all the vanguards protecting the lighthouse."</description>
@@ -202,7 +202,7 @@ Until recently, a strange yet familiar broadcast ended the long and anxious wait
 					<text>When you wake up, all that remains of the world you built are remnants of The Lighthouse.
 Time and scavengers have stripped away almost every trace of you and your companions past presence...
             
-Just like a long ago when you came here with nothing, you must rebuild anew. Only this time those who toiled and fought along side you are distant memories of the forgotten past.</text>
+Just like long ago when you came here with nothing, you must rebuild anew. Only this time those who toiled and fought alongside you are distant memories of the  past.</text>
 					<textKey>GameStartDialog</textKey>
 					<closeSound>GameStartSting</closeSound>
 				</li>

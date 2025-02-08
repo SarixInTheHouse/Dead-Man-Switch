@@ -5,7 +5,7 @@
     <defName>DMS_CivilianChild01</defName>
     <title>Low G Adjuster</title>
     <titleShort>Adjuster</titleShort>
-    <description>Since [PAWN_nameDef] grew up in a gravity-free environment, [PAWN_pronoun] childhood was spent undergoing rehabilitation and gravity exposure treatments. Although these treatments have allowed [PAWN_pronoun] to move regularly in a normal gravity environment, [PAWN_pronoun] physical condition is still far inferior compared to other children of the same age.</description>
+    <description>Since [PAWN_nameDef] grew up in a gravity-free environment, [PAWN_pronoun] childhood was spent undergoing rehabilitation and gravity exposure treatments. Although these treatments have allowed [PAWN_pronoun] to move regularly in a planetary gravity, [PAWN_pronoun] physical condition is still far inferior compared to other children of the same age.</description>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>DMSCommon</li>
@@ -38,7 +38,7 @@
     <defName>DMS_OfficerChild02</defName>
     <title>Child Orderly</title>
     <titleShort>Orderly</titleShort>
-    <description>[PAWN_nameDef] grew up on a colonial planet full of turmoil and used [PAWN_pronoun] flexible skills as messenger on the frontline battlefields full of electromagnetic interference and hostile fire. After the war, [PAWN_pronoun] was able to return to school for an education.</description>
+    <description>[PAWN_nameDef] grew up on a colonial planet full of turmoil and used [PAWN_pronoun] flexible skills as messenger on the frontline battlefields full of electromagnetic interference and hostile fire. After the war, [PAWN_pronoun] was able to return to school for proper education.</description>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>DMS_Officer</li>
@@ -56,7 +56,7 @@
     <title>Son of Martyrs</title>
     <titleFemale>Daughter of Martyrs</titleFemale>
     <titleShort>Martyrs' Child</titleShort>
-    <description>[PAWN_nameDef]'s parents were declared Missing in Action during their deployment while they were very young. Due to the Military Martyrdom Clause of the Colonial Fleet, they received a scholarship to support them through the Officer Academy Course.</description>
+    <description>[PAWN_nameDef]'s parents were declared Missing in Action during their deployment while they were very young. Due to the Military Martyrdom Clause of the Colonial Fleet, [PAWN_nameDef] received a scholarship to support [PAWN_pronoun] through the Officer Academy Course.</description>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>DMS_Officer</li>
@@ -76,7 +76,7 @@
     <defName>DMS_MilitaryChild01</defName>
     <title>Bastard Child</title>
     <titleShort>Child</titleShort>
-    <description>[PAWN_nameDef] was born out of wedlock in the colonial fleet stationed on the planet's surface, and his biological father is unknown. Fortunately, the soldiers stationed in the camp treated [PAWN_pronoun] as one of their own, allowing [PAWN_pronoun] to have a relatively complete childhood</description>
+    <description>[PAWN_nameDef] was born out of wedlock in the Colonial Fleet stationed on the planet's surface, and his biological father is unknown. Fortunately, the soldiers stationed in the camp treated [PAWN_pronoun] as one of their own, allowing [PAWN_pronoun] to have a relatively normal childhood</description>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>DMS_Officer</li>

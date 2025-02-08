@@ -5,7 +5,7 @@
     <defName>DMS_Officer01</defName>
     <title>Weapon Systems Officer</title>
     <titleShort>Wizzo</titleShort>
-    <description>[PAWN_nameDef] was a weapons controller at a Command and Control Facility. [PAWN_nameDef] was temporarily laid off due to a lack of maintenance parts for the control system and had to cross-train as a weapons system operator for the task force's autonomous robots at the weapons control station to mitigate friendly fire inicidents.</description>
+    <description>[PAWN_nameDef] was a weapons control officer at a Command and Control Facility. [PAWN_nameDef] was temporarily laid off due to a lack of maintenance parts for the control system and had to cross-train as a weapons system operator for the task force's autonomous robots at the weapons control station to mitigate friendly fire incidents.</description>
     <slot>Adulthood</slot>
     <spawnCategories>
       <li>DMS_Officer</li>
@@ -25,7 +25,7 @@
     <defName>DMS_Officer02</defName>
     <title>Xeno Researcher</title>
     <titleShort>Researcher</titleShort>
-    <description>Due to the immense time required to cross galaxies without FTL technology, by the time the Colonial Forces arrive at their target planet entire generations have passed and rendered their initial data obsolete. [PAWN_nameDef] had to research and catalog the changes in the planet's xenology and climate that occurred while their ship was in transit</description>
+    <description>Due to the immense time required to cross galaxies without FTL technology, by the time the Colonial Forces arrive at their target planet entire generations had passed and rendered their initial data obsolete. [PAWN_nameDef] had to research and catalog the changes in the planet's xenology and climate.</description>
     <slot>Adulthood</slot>
     <spawnCategories>
       <li>DMS_Officer</li>
