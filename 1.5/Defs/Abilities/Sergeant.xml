@@ -8,7 +8,7 @@
 	<AbilityDef ParentName="DMS_AddHediffSelfBase">
 		<defName>DMS_CallDrop</defName>
 		<label>Request Reinforcements</label>
-		<description>Send a reinforcement request to an automated industrial facility in orbit, reinforcements will be dispatched based on the identification code of the transceiver.</description>
+		<description>Send a reinforcement request to an automated industrial facility in orbit. Reinforcements will be dispatched based on the identification code of the transceiver.</description>
 		<iconPath>UI/Ability/CallSupport</iconPath>
 		<aiCanUse>true</aiCanUse>
 		<groupDef>DMS_AutomatroidCallDrop</groupDef>
@@ -46,7 +46,7 @@
 	<AbilityDef ParentName="DMS_AddHediffSelfBase">
 		<defName>DMS_CallDrop_Falcon</defName>
 		<label>Request Air Support</label>
-		<description>Send a reinforcement request for three Falcons to an automated industrial facility in orbit, reinforcements will be dispatched based on the identification code of the transceiver.</description>
+		<description>Send a reinforcement request for three Falcons to an automated industrial facility in orbit. Reinforcements will be dispatched based on the identification code of the transceiver.</description>
 		<iconPath>UI/Ability/CallSupportFalcon</iconPath>
 		<aiCanUse>true</aiCanUse>
 		<groupDef>DMS_AutomatroidCallDrop</groupDef>

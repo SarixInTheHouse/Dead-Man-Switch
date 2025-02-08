@@ -3,7 +3,7 @@
 	<AbilityDef>
 		<defName>DMS_FlashShock</defName>
 		<label>Assault Flash</label>
-		<description>Activate the Assault Flash Array temporarily blinding incoming enemies. The device's battery will slowly recharge after use.</description>
+		<description>Activate the Assault Flash Array, temporarily blinding incoming enemies. The device's battery will slowly recharge after use.</description>
 		<iconPath>UI/Ability/FlashShock</iconPath>
 		<cooldownTicksRange>3000</cooldownTicksRange>
 		<aiCanUse>true</aiCanUse>

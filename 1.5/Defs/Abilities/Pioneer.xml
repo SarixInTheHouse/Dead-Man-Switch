@@ -4,7 +4,7 @@
 	<AbilityDef>
 		<defName>DMS_BurstSprint</defName>
 		<label>Sprint Burst</label>
-		<description>Release accumulated mechanical energy allowing the Pioneer to sprint for a short duration.</description>
+		<description>Release accumulated mechanical energy, allowing the Pioneer to sprint for a short duration.</description>
 		<iconPath>UI/Ability/Burst</iconPath>
 		<cooldownTicksRange>1800</cooldownTicksRange> <!-- 30 seconds -->
 		<hostile>false</hostile>
@@ -41,7 +41,7 @@
 		<defName>DMS_BurstSprint</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>Sprint Burst</label>
-		<description>Release accumulated mechanical energy allowing the Pioneer to sprint for a short duration.</description>
+		<description>Release accumulated mechanical energy, allowing the Pioneer to sprint for a short duration.</description>
 		<everCurableByItem>false</everCurableByItem>
 		<stages>
 		  <li>
